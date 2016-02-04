@@ -1,5 +1,4 @@
-![](http://www.coderdojowa.org.au/assets/logo-ac6abf3301c05f3f70ae827520bb123b.png)
-
+<img src="https://pbs.twimg.com/profile_images/2159554442/coder-dojo-ireland-logo_bigger.png" align="right" />
 # devdrops/coding-dojo-php-boilerplate
 
 A boilerplate to get a coding dojo environment up and running.
