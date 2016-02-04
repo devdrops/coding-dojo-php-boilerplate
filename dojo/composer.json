@@ -1,0 +1,18 @@
+{
+    "name": "coding-dojo/php-boilerplate",
+    "description": "A boilerplate to get a coding dojo environment up and running.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Davi Marcondes Moreira",
+            "email": "davi.marcondes.moreira@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload" : {
+        "psr-4": {
+            "Dojo\\": "src",
+            "DojoTests\\": "tests"
+        }
+    }
+}
