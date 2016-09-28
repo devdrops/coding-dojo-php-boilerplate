@@ -1,5 +1,5 @@
-.bundle
-.vagrant
+/vagrant/.bundle
+/vagrant/.vagrant
 
-/dojo/vendor
-
+/vagrant/dojo/*
+/docker/dojo/*

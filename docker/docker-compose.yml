@@ -1,0 +1,9 @@
+version: "2"
+
+services:
+
+    phpunit:
+        image: devdrops/phpunit:v7.0
+        volumes:
+            - ./dojo:/dojo
+
